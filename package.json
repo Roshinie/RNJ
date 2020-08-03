@@ -1,0 +1,20 @@
+{
+  "name": "rnj",
+  "version": "1.0.0",
+  "description": "\"Simple Node\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":  "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roshinie/RNJ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roshinie/RNJ/issues"
+  },
+  "homepage": "https://github.com/Roshinie/RNJ#readme"
+}
